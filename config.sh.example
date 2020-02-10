@@ -1,0 +1,14 @@
+# To obtain API keys:
+#
+# - Go to your **Bitbucket settings** on bitbucket.org
+# - Go to **OAuth** settings
+# - **Add consumer**
+#   - with appropriate permission scopes
+#   - with a **Callback URL** of any server you control (ex: localhost, your ngrok...)
+#
+# Note that some documentation pages call this 'client_id' instead of 'key'...
+key=...
+secret=...
+
+# path to store token, do not commit
+token_sh_file=./.token.sh
