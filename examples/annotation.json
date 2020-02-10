@@ -1,0 +1,11 @@
+{
+    "annotation_type": "BUG",
+    "external_id": "234",
+    "summary": "bug annotation summary",
+    "details": "details to show on click",
+    "path": "dist/upvotejs/upvotejs.vanilla.js",
+    "line": 348,
+    "result": "FAILED",
+    "severity": "HIGH",
+    "link": "http://example.com/link/to/annotation/in-external-tool"
+}
