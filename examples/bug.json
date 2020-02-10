@@ -1,0 +1,11 @@
+{
+    "annotation_type": "BUG",
+    "external_id": "234",
+    "summary": "This function expects no arguments, but 1 was provided.",
+    "details": "Type:Bug Severity:Critical",
+    "path": "dist/bugs.js",
+    "line": 62,
+    "result": "FAILED",
+    "severity": "MEDIUM",
+    "link": "https://sonarcloud.io/project/issues?id=janos-ss_team2_upvotejs-t2&issues=AXAaVR0hH-MUy6bqJwNB&open=AXAaVR0hH-MUy6bqJwNB&pullRequest=1"
+}

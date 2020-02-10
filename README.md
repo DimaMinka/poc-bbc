@@ -23,4 +23,5 @@ Links
 -----
 
 - [Bitbucket API authentication](https://developer.atlassian.com/bitbucket/api/2/reference/meta/authentication)
+- [Code Reports API](https://developer.atlassian.com/bitbucket/api/2/reference/resource/repositories/%7Bworkspace%7D/%7Brepo_slug%7D/commit/%7Bcommit%7D/reports)
 - [Example Pull Request with Code Reports](https://bitbucket.org/extended-demo-time/code-reports/pull-requests/1)

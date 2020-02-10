@@ -9,7 +9,8 @@ cd "$(dirname "$0")"
 
 usage() {
     echo "usage: $0 api-endpoint-url"
-    echo "example: $0 https://api.bitbucket.org/2.0/repositories/project-slug/repo-slug"
+    echo "example: $0 https://api.bitbucket.org/2.0/repositories/project-slug/repo-slug/commit/commit-sha1/reports/123"
+    echo "example: $0 https://api.bitbucket.org/2.0/repositories/project-slug/repo-slug/commit/commit-sha1/reports/123/annotations/234"
     exit
 }
 

@@ -1,0 +1,11 @@
+{
+    "annotation_type": "CODE_SMELL",
+    "external_id": "234",
+    "summary": "Add the \"let\", \"const\" or \"var\" keyword to this declaration of \"arr\" to make it explicit.",
+    "details": "Type:Code Smell Severity:Blocker",
+    "path": "dist/upvotejs/upvotejs.vanilla.js",
+    "line": 349,
+    "result": "FAILED",
+    "severity": "HIGH",
+    "link": "https://sonarcloud.io/project/issues?id=janos-ss_team2_upvotejs-t2&issues=AXAPsIr2SpJwEaPmdFa9&open=AXAPsIr2SpJwEaPmdFa9&pullRequest=1"
+}

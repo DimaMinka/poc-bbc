@@ -1,0 +1,31 @@
+{
+    "report_type": "BUG",
+    "external_id": "123",
+    "title": "SonarCloud (failed example)",
+    "details": "SonarCloud Quality Gate failed.",
+    "link": "https://sonarcloud.io/dashboard?id=janos-ss_team2_upvotejs-t2&pullRequest=1",
+    "logo_url": "https://avatars3.githubusercontent.com/in/12526?s=88&v=4",
+    "result": "FAILED",
+    "data": [
+        {
+            "title": "Bugs",
+            "type": "NUMBER",
+            "value": 0
+        },
+        {
+            "title": "Coverage",
+            "type": "PERCENTAGE",
+            "value": 87.7
+        },
+        {
+            "title": "Security",
+            "type": "TEXT",
+            "value": "0 Vulnerabilities (0 Security Hotspots to review)"
+        },
+        {
+            "title": "Quality Gate",
+            "type": "BOOLEAN",
+            "value": true
+        }
+    ]
+}

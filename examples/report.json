@@ -1,0 +1,37 @@
+{
+    "report_type": "BUG",
+    "external_id": "123",
+    "title": "bug report",
+    "details": "details must be plain text, no markdown",
+    "result": "FAILED",
+    "data": [
+        {
+            "title": "Link",
+            "type": "LINK",
+            "value": {
+                "text": "Example link",
+                "href": "http://example.com"
+            }
+        },
+        {
+            "title": "Number of tests",
+            "type": "NUMBER",
+            "value": 7
+        },
+        {
+            "title": "Failure percentage",
+            "type": "PERCENTAGE",
+            "value": 100.0
+        },
+        {
+            "title": "quality good?",
+            "type": "BOOLEAN",
+            "value": false
+        },
+        {
+            "title": "max 10 data elements",
+            "type": "TEXT",
+            "value": "foo"
+        }
+    ]
+}
